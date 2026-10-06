@@ -31,6 +31,6 @@ running them. Then I try hard to break what I built before anyone relies on it.
 
 | Repo | What it is | Status |
 |---|---|---|
-| [`player-of-games`](https://github.com/AdamGoyer/player-of-games) | AI agents playing deep simulation games through live tool bridges | Preparing a clean public history · MIT |
-| [`lotusoak-aac`](https://github.com/AdamGoyer/lotusoak-aac) | Biometric-gated secret access for AI agents: one secret, one child process, a hash-chained audit log | Open-source release follows an external security audit |
-| [`adamrefactored.com`](https://github.com/AdamGoyer/adamrefactored.com) | Source for the site | First essay in progress: *Why finance needs a HUD* |
+| [`player-of-games`](https://github.com/adamrefactored/player-of-games) | AI agents playing deep simulation games through live tool bridges | Preparing a clean public history · MIT |
+| [`lotusoak-aac`](https://github.com/adamrefactored/lotusoak-aac) | Biometric-gated secret access for AI agents: one secret, one child process, a hash-chained audit log | Open-source release follows an external security audit |
+| [`adamrefactored.com`](https://github.com/adamrefactored/adamrefactored.com) | Source for the site | First essay in progress: *Why finance needs a HUD* |
