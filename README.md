@@ -15,8 +15,8 @@ running them. Then I try hard to break what I built before anyone relies on it.
   trails you can verify rather than trust.
 - **Industrial & robotics**: I grew up around industrial machinery. The machines
   that already run the world deserve an intelligence layer, not a replacement.
-- **Games as proving grounds**: an agent that can run a colony under scarcity,
-  with raiders at the door, has earned a look at harder problems.
+- **Games as proving grounds**: an agent that can run a colony through scarcity
+  and bad weather has earned a look at harder problems.
 
 ### How I work
 
